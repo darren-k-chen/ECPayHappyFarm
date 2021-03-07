@@ -20,17 +20,22 @@
 | Frontend Dev. Env. / Language | Unity 2019.4.17f1 / C# |
 | Backend Dev. Language | Python |
 
+（評審期間，沒有意外的話我們的伺服器都不會關閉。若不幸評審期間伺服器出現問題，可參考後端程式碼建置伺服器環境，或請撥手機 0968669251 或發郵件至 kjchen@protonmail.ch 通知我們將問題排除，謝謝。）
+
 #### 【前端開發技術說明】
 #### 前端我們採用 Unity 開發，使用語言為 C#。關鍵程式碼請參照：
 
-[HappyFarm/Assets/src/LandHandler.cs](HappyFarm/Assets/src/LandHandler.cs)
+[HappyFarm/Assets/src/LandHandler.cs](HappyFarm/Assets/src/LandHandler.cs)：
+這段程式碼主要處理物流狀態與作物狀態之連結。
 
-[HappyFarm/Assets/src/Order/CommisionButtonHandler.cs](HappyFarm/Assets/src/Order/CommisionButtonHandler.cs)
+[HappyFarm/Assets/src/Order/CommisionButtonHandler.cs](HappyFarm/Assets/src/Order/CommisionButtonHandler.cs)：
+這段程式碼主要處理訂單建立之過程。
 
 #### 【後端開發技術說明】
 #### 後端我們採用 Python 結合 Flask 開發。關鍵程式碼請參照：
 
-[Backend/main.py](Backend/main.py)
+[Backend/main.py](Backend/main.py)：
+這段程式碼主要處理與綠界後端系統之通訊交流與前端功能之支援。
 
-#### 後端與前端對話 API 說明請參考此鏈結：
+#### 後端與前端對話之 API 說明請參考此鏈結：
 <a href = "http://api.happyfarm.darren-cv.site/doc"> http://api.happyfarm.darren-cv.site/doc </a>
