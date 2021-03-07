@@ -20,7 +20,7 @@
 | Frontend Dev. Env. / Language | Unity 2019.4.17f1 / C# |
 | Backend Dev. Language | Python |
 
-（評審期間，沒有意外的話我們的伺服器都不會關閉。若不幸評審期間伺服器出現問題，可參考後端程式碼建置伺服器環境，或請撥手機 0968669251 或發郵件至 kjchen@protonmail.ch 通知我們將問題排除，謝謝。）
+（評審期間，沒有意外的話我們的伺服器都不會關閉。若不幸評審期間伺服器出現問題，可參考[後端程式碼](https://github.com/darren-k-chen/ECPayHappyFarm/tree/main/Backend)建置伺服器環境，或請撥手機 0968669251 或發郵件至 kjchen@protonmail.ch 通知我們將問題排除，謝謝。）
 
 #### 【前端開發技術說明】
 #### 前端我們採用 Unity 開發，使用語言為 C#。關鍵程式碼請參照：
