@@ -11,6 +11,10 @@
 ![20210307202254](https://github.com/darren-k-chen/ECPayHappyFarm/raw/main/assets/Pasted%20image%2020210307202254.png "assets/Pasted image 20210307202254.png")
 
 #### 遊戲操作說明請參考影片連結： [https://youtu.be/DynkwhWv6bY](https://youtu.be/DynkwhWv6bY)
+#### 測試環境，物流狀態無法變更。故在 Prototype 當中，我們物流狀態變更採用掃描 QR-Code 的方式，取代買家取貨條碼，物流變更 QR-Code 請點選以下連結下載：
+
+[https://github.com/darren-k-chen/ECPayHappyFarm/raw/main/Statics/setLogisticStatus/%E8%AE%8A%E6%9B%B4%E8%B2%A8%E7%89%A9%E7%8B%80%E6%85%8B.pdf](https://github.com/darren-k-chen/ECPayHappyFarm/raw/main/Statics/setLogisticStatus/%E8%AE%8A%E6%9B%B4%E8%B2%A8%E7%89%A9%E7%8B%80%E6%85%8B.pdf)
+
 ### 三、技術說明：
 
 |項目 | 規格 |
