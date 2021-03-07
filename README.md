@@ -10,7 +10,7 @@
 
 ![20210307202254](https://github.com/darren-k-chen/ECPayHappyFarm/raw/main/assets/Pasted%20image%2020210307202254.png "assets/Pasted image 20210307202254.png")
 
-#### 遊戲操作說明請參考影片連結 [https://youtu.be/DynkwhWv6bY](https://youtu.be/DynkwhWv6bY)
+#### 遊戲操作說明請參考影片連結： [https://youtu.be/DynkwhWv6bY](https://youtu.be/DynkwhWv6bY)
 ### 三、技術說明：
 
 |項目 | 規格 |
