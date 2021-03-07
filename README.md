@@ -3,18 +3,14 @@
 ### 一、產品特色：本遊戲透過「競價模式」串接金流，提供作物集合競價的平台，使得賣方能夠脫離盤商剝削，買方也能獲取公平之價格，創造買賣雙方雙贏，並將「作物成長」結合作物運送之物流，依據物流狀態來決定作物成長情形，形塑互動為最大特色。
 ### 二、使用說明：
 #### 系統要求：Windows 10
-#### 第一步、點選以下連結下載遊戲免安裝壓縮檔：
-<a href = "https://github.com/darren-k-chen/ECPayHappyFarm/raw/main/Statics/ECPayHappyFarm.zip"> https://github.com/darren-k-chen/ECPayHappyFarm/raw/main/Statics/ECPayHappyFarm.zip </a>
+#### 第一步、[請點此](https://github.com/darren-k-chen/ECPayHappyFarm/raw/main/Statics/ECPayHappyFarm.zip)下載遊戲免安裝壓縮檔。
 #### 第二步、將下載下來的 ZIP 壓縮檔解壓縮。
 #### 第三步、解壓縮後點開執行檔 [ HappyFarm.exe ] 即可執行。
 
 ![20210307202254](https://github.com/darren-k-chen/ECPayHappyFarm/raw/main/assets/Pasted%20image%2020210307202254.png "assets/Pasted image 20210307202254.png")
 
 #### 遊戲操作說明請參考影片連結： [https://youtu.be/DynkwhWv6bY](https://youtu.be/DynkwhWv6bY)
-#### 測試環境，物流狀態無法變更。故在 Prototype 當中，我們物流狀態變更採用掃描 QR-Code 的方式，取代買家取貨條碼，物流變更 QR-Code 請點選以下連結下載：
-
-[https://github.com/darren-k-chen/ECPayHappyFarm/raw/main/Statics/setLogisticStatus/%E8%AE%8A%E6%9B%B4%E8%B2%A8%E7%89%A9%E7%8B%80%E6%85%8B.pdf](https://github.com/darren-k-chen/ECPayHappyFarm/raw/main/Statics/setLogisticStatus/%E8%AE%8A%E6%9B%B4%E8%B2%A8%E7%89%A9%E7%8B%80%E6%85%8B.pdf)
-
+#### 測試環境，物流狀態無法變更。故在 Prototype 當中，我們物流狀態變更採用掃描 QR-Code 的方式，取代買家取貨條碼，物流變更 QR-Code [請點此](https://github.com/darren-k-chen/ECPayHappyFarm/raw/main/Statics/setLogisticStatus/%E8%AE%8A%E6%9B%B4%E8%B2%A8%E7%89%A9%E7%8B%80%E6%85%8B.pdf)下載：
 ### 三、技術說明：
 
 |項目 | 規格 |
