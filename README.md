@@ -15,7 +15,7 @@
 
 |項目 | 規格 |
 |:--- | :---|
-| Server IP Addr | 35.201.168.83 |
+| Server IP Address | 35.201.168.83 |
 | Server Domain Name | api.happyfarm.darren-cv.site|
 | Server OS / Web Service | Ubuntu Server 18.04 / Nginx|
 | Frontend Dev. Env. / Language | Unity 2019.4.17f1 / C# |
