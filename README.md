@@ -25,6 +25,10 @@
 
 [HappyFarm/Assets/src/Order/CommisionButtonHandler.cs](HappyFarm/Assets/src/Order/CommisionButtonHandler.cs)
 
-#### 前端我們採用 Python 開發。關鍵程式碼請參照：
+#### 【後端開發技術說明】
+#### 後端我們採用 Python 結合 Flask 開發。關鍵程式碼請參照：
 
 [Backend/main.py](Backend/main.py)
+
+#### 後端與前端對話 API 說明請參考此鏈結：
+<a href = "http://api.happyfarm.darren-cv.site/doc"> http://api.happyfarm.darren-cv.site/doc </a>
