@@ -7,7 +7,7 @@
 <a href = "https://github.com/darren-k-chen/ECPayHappyFarm/raw/main/Statics/ECPayHappyFarm.zip"> https://github.com/darren-k-chen/ECPayHappyFarm/raw/main/Statics/ECPayHappyFarm.zip </a>
 #### 第二步、將下載下來的 ZIP 壓縮檔解壓縮。
 #### 第三步、解壓縮後點開執行檔 [ HappyFarm.exe ] 即可執行。
-![[Pasted image 20210307202254.png]]
+![[assets/Pasted image 20210307202254.png]]
 ### 三、技術說明：
 
 |項目 | 規格 |
