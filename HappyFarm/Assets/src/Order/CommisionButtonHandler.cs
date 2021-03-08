@@ -11,7 +11,7 @@ public class CommisionButtonHandler : MonoBehaviour
             print("[POST] " + json + "\n[TO] " + LandHandler.API_SERVER_NAME + API_METHOD); streamWriter.Write(json);
         } var httpResponse = (HttpWebResponse)httpWebRequest.GetResponse();
         using (var streamReader = new StreamReader(httpResponse.GetResponseStream())) print(streamReader.ReadToEnd());
-        Application.OpenURL("http://api.happyfarm.darren-cv.site/createGoldFlowOrder/Carrot/88");
+        Application.OpenURL(LandHandler.API_SERVER_NAME + "/createGoldFlowOrder/Carrot/88");
     } public void queryLogisticsInfo() {
         string API_METHOD = "/queryLogisticsInfo";
         var httpWebRequest = (HttpWebRequest)WebRequest.Create(LandHandler.API_SERVER_NAME + API_METHOD);
